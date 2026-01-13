@@ -9,8 +9,7 @@ Example:
 1. Use the [Book Search Plus](https://github.com/DuckTapeKiller/obsidian-book-search-plus) plugin to create a note for "The Trial" by Franz Kafka, complete with frontmatter and cover imagery.
 2. While reading, record your highlights on your Kindle.
 3. Once finished, export the HTML file from the Kindle app and upload it to "Kindle Importer Plus".
-
-The plugin identifies the note titled "The Trial" and appends the highlights to the end of the file. This ensures your existing content—such as personal reviews or summaries—remains untouched; the plugin only adds data to the bottom of the note.
+4. The plugin identifies the note titled "The Trial" and appends the highlights to the end of the file. This ensures your existing content—such as personal reviews or summaries—remains untouched; the plugin only adds data to the bottom of the note.
 
 Alternatively, if you prefer the plugin to generate new notes for each export, you can enable this behaviour in the settings.
 
