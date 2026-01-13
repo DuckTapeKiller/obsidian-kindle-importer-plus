@@ -82,6 +82,14 @@ This is where the magic happens. You can map the 4 Kindle highlight colors to an
 * **Blue / Pink / Orange**: Map these to other types like `info`, `todo`, `warning`, or `important`.
 * **Custom Callouts**: Select "CUSTOM..." in the dropdown to type your own callout name (e.g., `vocabulary`, `character`).
 
+**How to install:**
+
+1. Navigate to the hidden ".obsidian" folder located at the root of your vault.
+2. Open the "plugins" folder.
+3. Create a new directory named "kindle-importer-plus".
+4. Copy "main.js", "manifest.json", and "style.css" into this new folder.
+5. Restart Obsidian or reload plugins to complete the installation.
+
 ---
 **Author**: DuckTapeKiller
 **License**: MIT
