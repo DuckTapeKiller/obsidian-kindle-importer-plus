@@ -1,4 +1,4 @@
-# Kindle Highlights Importer Plus
+# Kindle Importer Plus
 
 **Kindle Highlights Importer Plus** is a powerful, highly customizable plugin for Obsidian that allows you to seamlessly import your Kindle highlights from the HTML file exported by the Kindle app.
 
