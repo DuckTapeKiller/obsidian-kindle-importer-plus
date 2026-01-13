@@ -1,6 +1,7 @@
 MIT License
 
 Copyright (c) 2026 DuckTapeKiller
+
 Copyright (c) 2024 Lukas Weihrauch 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
