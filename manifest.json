@@ -1,10 +1,10 @@
 {
-	"id": "kindle-html-importer-plus",
-	"name": "Kindle Highlights Importer Plus",
-	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "A streamlined way to import your Kindle HTML highlights with extensive customization options, smart callout mapping, and existing note integration.",
-	"author": "DuckTapeKiller",
-	"authorUrl": "https://github.com/DuckTapeKiller",
-	"isDesktopOnly": false
+    "id": "kindle-importer-plus",
+    "name": "Kindle Highlights Importer Plus",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "A streamlined way to import your Kindle HTML highlights with extensive customization options, smart callout mapping, and existing note integration.",
+    "author": "DuckTapeKiller",
+    "authorUrl": "https://github.com/DuckTapeKiller",
+    "isDesktopOnly": false
 }
