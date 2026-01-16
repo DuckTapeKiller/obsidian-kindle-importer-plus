@@ -79,7 +79,8 @@ export default class KindleHighlightsPlugin extends Plugin {
         this.addRibbonIcon(K_ICON_ID, "Import Kindle Highlights", () => {
             new FilePickerModal(this.app, (value) => {
                 const reader = new FileReader();
-                reader.onload = () => this.handleFileLoad(reader.result);
+                // Fix: Added curly braces to ensure void return
+                reader.onload = () => { this.handleFileLoad(reader.result); };
                 reader.readAsText(value);
             }).open();
         });
@@ -90,7 +91,8 @@ export default class KindleHighlightsPlugin extends Plugin {
             callback: () => {
                 new FilePickerModal(this.app, (value) => {
                     const reader = new FileReader();
-                    reader.onload = () => this.handleFileLoad(reader.result);
+                    // Fix: Added curly braces to ensure void return
+                    reader.onload = () => { this.handleFileLoad(reader.result); };
                     reader.readAsText(value);
                 }).open();
             },
