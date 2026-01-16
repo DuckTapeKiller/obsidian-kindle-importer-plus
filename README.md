@@ -1,5 +1,7 @@
 # Kindle Importer Plus
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ducktapekiller)
+
 Imagine you use a plugin to generate a book note, populate the frontmatter, and capture the cover art. How do you import your Kindle highlights into that specific note instead of creating a duplicate?
 
 Kindle Importer Plus is a powerful, highly-customisable plugin for Obsidian that imports Kindle highlights from the HTML files exported by the Kindle app directly into existing notes. By specifying your book notes folder, the plugin matches the Kindle export to the note with the corresponding title.
