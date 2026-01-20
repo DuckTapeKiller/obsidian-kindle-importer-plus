@@ -1,4 +1,5 @@
-# Kindle Importer Plus
+
+![Kindle Importer Plus Art](https://github.com/user-attachments/assets/ae191c80-0608-4d91-883d-b745483f80c2)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ducktapekiller)
 
