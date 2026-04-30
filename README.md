@@ -1,3 +1,8 @@
+[![GitHub Repo stars](https://img.shields.io/github/stars/DuckTapeKiller/obsidian-kindle-importer-plus?style=flat&logo=obsidian&color=%23d35400)](https://github.com/DuckTapeKiller/obsidian-kindle-importer-plus/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/DuckTapeKiller/obsidian-kindle-importer-plus?logo=obsidian&color=%23d35400)](https://github.com/DuckTapeKiller/obsidian-kindle-importer-plus/issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/DuckTapeKiller/obsidian-kindle-importer-plus?logo=obsidian&color=%23d35400)](https://github.com/DuckTapeKiller/obsidian-kindle-importer-plus/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub manifest version](https://img.shields.io/github/manifest-json/v/DuckTapeKiller/obsidian-kindle-importer-plus?logo=obsidian&color=%23d35400)](https://github.com/DuckTapeKiller/obsidian-kindle-importer-plus/blob/main/manifest.json)
+[![Downloads](https://img.shields.io/github/downloads/DuckTapeKiller/obsidian-kindle-importer-plus/total?logo=obsidian&color=%23d35400)](https://github.com/DuckTapeKiller/obsidian-kindle-importer-plus/releases)
 
 ![Kindle Importer Plus Art](https://github.com/user-attachments/assets/ae191c80-0608-4d91-883d-b745483f80c2)
 
